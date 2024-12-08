@@ -42,6 +42,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamganesh&" alt="shivamganesh" /></p>
 <div align="center">
-  ![snake gif](https://github.com/shivamganesh/shivamganesh/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/shivamganesh/shivamganesh/blob/output/github-snake.svg">
 </div>
 
